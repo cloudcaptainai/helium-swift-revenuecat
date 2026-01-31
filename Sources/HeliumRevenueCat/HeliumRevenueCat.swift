@@ -5,7 +5,7 @@
 //  Created by Kyle Gorlick on 6/26/25.
 //
 
-@_exported import Helium
+import Helium
 import RevenueCat
 import Foundation
 import StoreKit

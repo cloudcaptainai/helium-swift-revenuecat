@@ -7,8 +7,8 @@ RevenueCat integration for the Helium iOS SDK.
 Add both packages to your project via Swift Package Manager:
 
 ```swift
-.package(url: "https://github.com/cloudcaptainai/helium-swift", from: "4.1.1"),
-.package(url: "https://github.com/cloudcaptainai/helium-swift-revenuecat", from: "1.0.0")
+.package(url: "https://github.com/cloudcaptainai/helium-swift", from: "4.12.0"),
+.package(url: "https://github.com/cloudcaptainai/helium-swift-revenuecat", from: "1.1.0")
 ```
 
 Then import both:

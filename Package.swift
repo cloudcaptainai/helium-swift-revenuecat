@@ -14,7 +14,7 @@ let package = Package(
             targets: ["HeliumRevenueCat"])
     ],
     dependencies: [
-        .package(url: "https://github.com/cloudcaptainai/helium-swift", from: "4.4.0"),
+        .package(url: "https://github.com/cloudcaptainai/helium-swift", from: "4.12.0"),
         .package(url: "https://github.com/RevenueCat/purchases-ios-spm", from: "5.0.0")
     ],
     targets: [
